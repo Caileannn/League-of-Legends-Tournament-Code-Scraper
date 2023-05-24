@@ -31,6 +31,8 @@ Install the requirments using the *requirements.txt* file.
 * *Number of Match Pages*: Number of pages on the enter results page. Can be found at the bottom.
 * *Headerless*: True or False, you can see the bot do it in real-time!
 
+**DISCLAIMER** You most likely will get timed out after a while!
+
 
 
 
