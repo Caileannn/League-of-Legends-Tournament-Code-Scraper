@@ -23,7 +23,6 @@ The codes are scraped from https://www.toornament.com/en_GB/
 
 Install the requirments using the *requirements.txt* file.
 
-To run use:
 **python scrape.py [username] [password] [tournament name] [number of match pages] [headerless]**
 
 * *Username*: Toornament Username
