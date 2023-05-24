@@ -33,6 +33,8 @@ Install the requirments using the *requirements.txt* file.
 
 **DISCLAIMER** You most likely will get timed out after a while!
 
+Or I assume, you have a limit to how many number of matches you can create with codes.
+
 
 
 
