@@ -14,10 +14,11 @@ The codes are scraped from https://www.toornament.com/en_GB/
 * Once created, add the fake players to the league using the *participants* tab.
 * Then use the **Fill All** button, to add the fake players.
 * Return to the Overview section, click the three dots icon under *Structure*, select configure.
-* Head to the *advanced* tab, and select 'yes' for *place participants automatically*.
-* Return back to the Overview section, then select *Enter Match Results*.
 * Select the *Settings* tab, and enable **Tournament Codes**.
 * The configure the Match Settings, to *Single Game* & *Result Based*.
+* Head to the *advanced* tab, and select 'yes' for *place participants automatically*.
+* Return back to the Match tab, then select *Overview*.
+
 
 ## Running the Script
 
