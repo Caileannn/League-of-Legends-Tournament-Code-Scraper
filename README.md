@@ -1,4 +1,4 @@
-# League of Legends Tournament Code Scrape
+# League of Legends Tournament Code Scraper
 
 A Python based project which uses Playwrighter and Beautiful Soup to scrape Tournament Codes
 
