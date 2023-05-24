@@ -21,13 +21,16 @@ The codes are scraped from https://www.toornament.com/en_GB/
 
 ## Running the Script
 
-To run use: python scrape.py [username] [password] [tournament name] [number of match pages] [headerless]
+Install the requirments using the *requirements.txt* file.
 
-* Username: Toornament Username
-* Password: Toornament Password
-* Tournament Name: Name of Tournament
-* Number of Match Pages: Number of pages on the enter results page. Can be found at the bottom.
-* Headerless: True or False, you can see the bot do it in real-time!
+To run use:
+**python scrape.py [username] [password] [tournament name] [number of match pages] [headerless]**
+
+* *Username*: Toornament Username
+* *Password*: Toornament Password
+* *Tournament Name*: Name of Tournament
+* *Number of Match Pages*: Number of pages on the enter results page. Can be found at the bottom.
+* *Headerless*: True or False, you can see the bot do it in real-time!
 
 
 
